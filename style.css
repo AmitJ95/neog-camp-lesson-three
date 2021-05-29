@@ -3,6 +3,7 @@
 :root{
     --primary-color: #8B5CF6;
     --dark-grey: #4B5563;
+    --off-white: #F3F4F6 ;
 }
 
 body{
@@ -83,7 +84,7 @@ hr{
 }
 
 .hero .hero-img{
-    max-width: 350px;
+    max-width: 350px;  
     display: block;
     margin: auto;
 }
@@ -96,7 +97,19 @@ hr{
     color: var(--primary-color);
 }
 
+/**section**/
 
+.section{
+    padding: 2rem;
+}
+.section h1{
+    text-align: center;
+    
+}
+
+.ow{
+ background-color: var(--off-white);
+}
 
 
 
