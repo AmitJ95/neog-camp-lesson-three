@@ -54,6 +54,10 @@ hr{
     margin: 1rem 1rem 1rem 0rem;
 }
 
+.showcase-list{
+    padding: 2rem;
+}
+
 .list-non-bullet{
    list-style-type: none;
 }
