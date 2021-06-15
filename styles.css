@@ -125,16 +125,6 @@ hr{
     background-color: var(--off-white);
 }
 
-/* .section p{
-    text-align: center;
-} */
-
-/* .section a{
-    position: relative;
-    left: 2rem;
-} */
-
-/*footer*/
 .footer{
     text-align: center;
     background-color: var(--primary-color);
