@@ -111,6 +111,11 @@ hr{
     color: var(--primary-color);
 }
 
+.hero .hero-heading .heading-inverted .name-color{
+    color: black;
+}
+
+
 /**section**/
 
 .section{
