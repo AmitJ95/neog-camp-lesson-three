@@ -101,11 +101,21 @@ hr{
     margin: auto;
     width: 400px;
 }
+
 .hero .hero-heading{
     text-align: center;
     padding: 1rem;
     color: var(--dark-gray);
 }
+
+.svg-style{
+   max-height: 40px;
+
+}
+.twitter-svg{
+   min-height: 40px; 
+}
+
 
 .hero .hero-heading .heading-inverted{
     color: var(--primary-color);
@@ -145,4 +155,5 @@ hr{
 .footer-header{
    font-weight: bold;
    font-size: large;
+   margin-left: 2rem;
 }
